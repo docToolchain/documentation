@@ -1,7 +1,7 @@
 ifndef::imagesdir[:imagesdir: ../images]
 = exportExcel
 
-image::https://img.shields.io/badge/improve-this%20doc-orange.svg[link={manualdir}03_task_exportExcel.adoc, float=right]
+image::https://img.shields.io/badge/improve-this%20doc-orange.svg[link={manualurl}03_task_exportExcel.adoc, float=right]
 
 image::ea/Manual/exportExcel.png[]
 
@@ -41,8 +41,10 @@ The AsciiDoc version gives you a bit more control:
 
 == Source
 
+TODO: replace with link to github
+
 .build.gradle
 [source,groovy]
 ----
-include::../../../scripts/exportExcel.gradle[tags=exportExcel]
+include::../../../docToolchain/scripts/exportExcel.gradle[tags=exportExcel]
 ----

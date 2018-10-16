@@ -1,7 +1,7 @@
 ifndef::imagesdir[:imagesdir: ../images]
 = generateDeck
 
-image::https://img.shields.io/badge/improve-this%20doc-orange.svg[link={manualdir}03_task_generateDeck.adoc, float=right]
+image::https://img.shields.io/badge/improve-this%20doc-orange.svg[link={manualurl}03_task_generateDeck.adoc, float=right]
 
 image::ea/Manual/generateDeck.png[]
 
@@ -15,5 +15,5 @@ Create a PowerPoint presentation and enrich it with reveal.js slide definitions 
 .AsciiDocBasics.gradle
 [source,groovy]
 ----
-include::../../../scripts/AsciiDocBasics.gradle[tags=generateDeck]
+include::../../../docToolchain/scripts/AsciiDocBasics.gradle[tags=generateDeck]
 ----

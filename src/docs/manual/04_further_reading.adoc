@@ -1,9 +1,11 @@
 ifndef::imagesdir[:imagesdir: ../images]
 = Further Reading
 
-image::https://img.shields.io/badge/improve-this%20doc-orange.svg[link={manualdir}04_further_reading.adoc, float=right]
+image::https://img.shields.io/badge/improve-this%20doc-orange.svg[link={manualurl}04_further_reading.adoc, float=right]
 
 This chapter lists some additional references to interesting resources.
+
+Do you think something is missing? Click on "{manualurl}04_further_reading.adoc[improve this doc]" an a pull request or open an issue!
 
 == Links
 
@@ -15,6 +17,10 @@ This chapter lists some additional references to interesting resources.
 ** http://docs.arc42.org/home/[arc42 Tips & Tricks]
 ** http://faq.arc42.org/home/[rc42 FAQ]
 * https://rdmueller.github.io/[the docToolchain Blog]
+* *docs-as-code* approach
+* https://docslikecode.com[Blog by Anne Gentle]
+* http://www.writethedocs.org/guide/docs-as-code/[Write the Docs]
+*
 
 == Books
 

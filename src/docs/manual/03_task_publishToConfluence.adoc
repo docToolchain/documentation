@@ -1,7 +1,7 @@
 ifndef::imagesdir[:imagesdir: ../images]
 = publishToConfluence
 
-image::https://img.shields.io/badge/improve-this%20doc-orange.svg[link={manualdir}03_task_publishToConfluence.adoc, float=right]
+image::https://img.shields.io/badge/improve-this%20doc-orange.svg[link={manualurl}03_task_publishToConfluence.adoc, float=right]
 
 image::ea/Manual/publishToConfluence.png[]
 
@@ -63,15 +63,17 @@ The following style definitions are believed to be Confluence-compatible, and en
 
 == Source
 
+TODO: replace with link to github
+
 .publishToConfluence.gradle
 [source,groovy]
 ----
-include::../../../scripts/publishToConfluence.gradle[tags=publishToConfluence]
+include::../../../docToolchain/scripts/publishToConfluence.gradle[tags=publishToConfluence]
 ----
 
 .scripts/asciidoc2confluence.groovy
 [source,groovy]
 ----
-include::../../../scripts/asciidoc2confluence.groovy[]
+include::../../../docToolchain/scripts/asciidoc2confluence.groovy[]
 ----
 

@@ -1,4 +1,6 @@
 :imagesdir: images
+:manualurl: https://github.com/docToolchain/docToolchain/blob/master/src/docs/manual/
+:githubsourceurl: https://github.com/docToolchain/docToolchain/blob/master/
 
 = docToolchain Manual
 

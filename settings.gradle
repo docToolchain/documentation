@@ -15,5 +15,5 @@ include 'shared'
 include 'api'
 include 'services:webservice'
 */
-
-rootProject.name = 'docToolchain'
+include 'docToolchain'
+rootProject.name = 'docToolchain-docs'

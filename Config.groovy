@@ -9,7 +9,7 @@ outputPath = 'build/docs'
 // or in the command line, and therefore must be relative to it.
 inputPath = 'src/docs'
 
-inputFiles = [[file: 'test.adoc',              formats: ['html','pdf','docbook']],
+inputFiles = [[file: 'tutorials/tutorial1.adoc',         formats: ['html','pdf','docbook']],
               [file: 'manual.adoc',            formats: ['html','pdf']],
               [file: 'ppt/Demo.pptx.ad',       formats: ['html','revealjs']],
              ]

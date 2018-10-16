@@ -236,7 +236,8 @@ And since we want to use our main project to be the source of the documentation,
 Just add the following line to your `build.gradle`.
 Since we have an empty main project in this tutorial, you can even overwrite the whole `build.gradle` with this line:
 
-[source, groovy]
+.build.gradle
+[source, groovy, role="primary"]
 ----
 project('docToolchain') { docDir = "../." }
 ----

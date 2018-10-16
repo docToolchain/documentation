@@ -8,5 +8,5 @@ include::../../../build/docs/exportMarkdownDocs.adoc[]
 .exportMarkdown.gradle
 [source,groovy]
 ----
-include::../../../scripts/exportMarkdown.gradle[tags=exportMarkdown]
+include::../../../docToolchain/scripts/exportMarkdown.gradle[tags=exportMarkdown]
 ----

@@ -1,7 +1,7 @@
 ifndef::imagesdir[:imagesdir: ../images]
 = Acknowledgements and Contributors
 
-image::https://img.shields.io/badge/improve-this%20doc-orange.svg[link={manualdir}05_contributors.adoc, float=right]
+image::https://img.shields.io/badge/improve-this%20doc-orange.svg[link={manualurl}05_contributors.adoc, float=right]
 
 This project is an open source project which is based on community efforts.
 
